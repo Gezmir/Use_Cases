@@ -44,3 +44,6 @@ Unsere USE_CASES
 3. As a teacher i want to be able to delete grades i put in wrong so that i can correct them.
 4. As a teacher i want to be able to upload grades so that i can do my job.
 5. As a parent i want to be able to see my kid's grades so that i know how my kid is doing at school.
+
+
+![image](Use_case.png)
