@@ -10,7 +10,7 @@ Aufgabenstellung
 * Github-Repository anlegen (Beide Teammitglieder haben Zugriff)
 * Projektbeschreibung und Userstories als Markdownfile im Repo (Readme.md)
 * Usecase.png in das Repo laden
-* Milestone für jede Userstory anlegen
+* Milestone für jede Userstory anlegen.
 
 
 ## Aufgabe 2
